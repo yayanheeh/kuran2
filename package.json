@@ -1,0 +1,19 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "alquran",
+  "main": "client.js",
+  "scripts": {
+    "test": "tes",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yayan"
+  },
+  "keywords": [
+    "yayanheeh"
+  ],
+  "author": "yayanheeh",
+  "license": "UNLICENSED"
+}
